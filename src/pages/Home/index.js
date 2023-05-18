@@ -8,7 +8,7 @@ const Home = () => {
     <div className="pt-16">
       <Banner />
       <Service />
-      {/* <Paket /> */}
+      <Paket />
       <Testimonial />
       {/* <Informasi /> */}
       <Kontak />

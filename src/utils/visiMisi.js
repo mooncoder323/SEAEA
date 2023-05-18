@@ -5,7 +5,7 @@ import VisiMSN from "../assets/images/VisiMisiImg/visi.svg";
 const visiMisi = [
   {
     id: 1,
-    title: "Misi",
+    title: "Mission",
     icon: <img src={MisiMSN} alt="misi MSN PRODUCTION" />,
     description:
       "Become a private company that is reliable in providing services and trading in accordance with the KBLI that is owned.",

@@ -231,7 +231,7 @@ const Paket = () => {
             ))}
           </div>
         </motion.div>
-        {location.pathname === "/" && (
+        {/* {location.pathname === "/" && (
           <div className="mt-8 text-right">
             <Link
               to="/paket"
@@ -245,7 +245,7 @@ const Paket = () => {
               </button>
             </Link>
           </div>
-        )}
+        )} */}
       </div>
     </div>
   );
